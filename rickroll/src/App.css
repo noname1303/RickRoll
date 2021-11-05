@@ -1,5 +1,11 @@
-.App {
+@import url("https://fonts.googleapis.com/css2?family=Fruktur&display=swap");
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
   text-align: center;
+  font-size: 62.5%;
+  font-family: "Fruktur", cursive;
 }
 
 .App-logo {
